@@ -198,7 +198,7 @@ If I had more time, I would add:
 
 #Submission
 
-* GitHub Repo: https://github.com/your-username/finance-backend
+* GitHub Repo: https://github.com/Ashwani-hash/finance-backend
 * API Testing: (Postman collection or deployed link)
 
 ---
